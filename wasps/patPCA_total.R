@@ -99,8 +99,8 @@ patPCA_total <- function(rList, which_colors = "all",
     par(mfrow=c(1,1), mar=c(4,4,2,2))
     plot(comp$x[,c(PCx,PCy)], col='black', pch=19,
          xlim = xrange, ylim = yrange,
-         xlab=paste('PC',PCx,' (', round(summ$importance[2,PCx]*100, 1), ' %)'),
-         ylab=paste('PC',PCy,' (', round(summ$importance[2,PCy]*100, 1), ' %)'))
+         xlab=paste0('PC',PCx,' (', round(summ$importance[2,PCx]*100, 1), ' %)'),
+         ylab=paste0('PC',PCy,' (', round(summ$importance[2,PCy]*100, 1), ' %)'))
     
   }
   
