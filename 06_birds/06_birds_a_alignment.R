@@ -27,7 +27,7 @@ mask1 <- read.table("06_birds/XY_Diglossa_Aug2021_LSUMZ129286_B_VIS.txt",
 ### Alignment ###
 # this takes ~5 minutes on a 16Gb RAM laptop running Ubuntu, which is why
 # it's commented out-- uncomment to run, but the output is already stored
-# as an .RDS file in this folder so you don't have to
+# as a set of PNGs (to save on space) so you don't need this
 
 # imageList_aligned <- alignLan(imageList, landmarkList, transformRef = target, 
 #                               adjustCoords = TRUE,
