@@ -2,7 +2,7 @@
 
 # Run the numbered scripts in order:
 
-# This file (D_wasps.R) is included for convenience, but the most instructive
+# This file (05_wasps.R) is included for convenience, but the most instructive
 # thing to do is to run each of those files one after the other to figure out
 # what the code is actually doing!
 
