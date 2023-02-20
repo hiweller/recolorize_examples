@@ -7,6 +7,5 @@ install.packages("devtools")
 devtools::install_github("hiweller/recolorize")
 devtools::install_github("StevenVB12/patternize")
 
-# install CRAN version of pavo and viridisList color palettes:
+# install CRAN version of pavo:
 install.packages("pavo")
-install.packages("viridisLite")
