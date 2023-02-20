@@ -19,15 +19,15 @@ install.packages("recolorize")
 
 * 01_neolamprologus:
 
-![](/home/hannah/Dropbox/color/recolorize_examples/demo_images/neolamprologus.png)
+![](demo_images/neolamprologus.png)
 > Wild *Neolamprologus* cichlid images are all courtesy [Ad Konings](https://www.cichlidpress.com/).
 
 * 02_wasps:
-![](/home/hannah/Dropbox/color/recolorize_examples/demo_images/wasps.png)
+![](demo_images/wasps.png)
 > *Polistes fuscatus* social wasp images are courtesy James Tumulty, excerpted with permission from [this paper](https://www.biorxiv.org/content/10.1101/2021.09.07.459327v1.abstract).
 
 * 03_birds:
-![](/home/hannah/Dropbox/color/recolorize_examples/demo_images/birds.png)
+![](demo_images/birds.png)
 > All flowerpiercer (*Diglossa* spp.) birds were photographed by Anna E. Hiller.
 
 * Two examples running single images.
